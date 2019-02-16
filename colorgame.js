@@ -7,6 +7,12 @@ var messageDisplay = document.getElementById("message");
 var h1 = document.querySelector("h1");
 
 var resetButton = document.querySelector("#reset");
+
+var easyBtn = document.querySelector("#easyBtn");
+var easyBtn = document.querySelector("#hardBtn");
+
+
+// Reset button 
 resetButton.addEventListener("click", function(){
   
     //generate new colors 
@@ -19,6 +25,7 @@ resetButton.addEventListener("click", function(){
     for (var i = 0; i < squares.length; i++){
         squares[i].style.backgroundColor = colors[i];
     }
+
     h1.style.backgroundColor = "#232323"
 })
 
