@@ -6,3 +6,8 @@ Technologies used:
 - HTML
 - CSS
 - Javascript
+<br>
+
+<p align="center">
+<img width="644" alt="Screen Shot 2019-03-24 at 1 23 52 PM" src="https://user-images.githubusercontent.com/43193434/54883838-1d67fc80-4e38-11e9-9499-be491c33dab1.png">
+</p>
